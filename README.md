@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aditya17-creator
 - 👀 I’m interested in ...developing / project management / java / python / SQL 
 - 🌱 I’m currently learning ...Computer Science Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... C#
 - 📫 How to reach me ...@adityaraha41@gmail.com
 
 <!---
